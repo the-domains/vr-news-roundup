@@ -1,0 +1,14 @@
+layout_spectrum: 0.7223416
+color:
+  saturation: 0.8395891
+  lightness: 0.9964151
+  brandStrength: 0.2187405
+  rhythmicContrast: 0.09383048
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.6087722
+name: VR News Roundup
